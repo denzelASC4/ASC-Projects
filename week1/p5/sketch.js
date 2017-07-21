@@ -18,7 +18,3 @@ function setup() {
     rect(150, 150, 80, 40);
     rect(width - 150 - 80, 150, 80, 40);
 }
-function mousePressed() {
-    console.log('The mouse is at this x:' + mouseX + ".")
-    console.log('The mouse is at this y:' + mouseY + ".")
-}
