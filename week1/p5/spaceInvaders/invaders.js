@@ -25,6 +25,7 @@ function draw() {
     fill("green")
     strokeWeight(1)
     fill("white");
+    var myArray= [,,,]
     ellipse(100, 100, x1, x2);
     ellipse(200, 100, x1, x2);
     ellipse(300, 100, x1, x2);
